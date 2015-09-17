@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+    <title>Upload new File</title>
+    <h1>Upload new File</h1>
+<body>
+    <form action="./b.py" method=post enctype=multipart/form-data>
+      <p><input type=file name=file>
+         <input type=submit value=Upload>
+    </form>
+	<embed src="/home/divay/Desktop/fileupload/files/155208844-Competitive-Programming-2.pdf" width="800px" height="2100px">
+	</body>
+</html>
